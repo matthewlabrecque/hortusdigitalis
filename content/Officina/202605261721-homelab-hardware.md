@@ -1,17 +1,17 @@
 ---
 type: note
-title: homelab-build
+title: Homelab Hardware
 created: 2026-04-17
 tags:
-    - projects
-    - homelab
+  - projects
+  - homelab/hardware
 ---
 ### Thesis
 Modern services typically make you choose between having either the convience of
 a subscription and cloud services, or being able to have control over your
 personal data. They also don't mention how you're at their mercy if they decide
 to increase the prices of a service. Because of this, I decided to build a
-homelab to serve as a secure, controlled environment for the data which I don't
+home lab to serve as a secure, controlled environment for the data which I don't
 want on the cloud.
 ### Workflow
 *This will ultimately contain information about my GitOps workflow using Ansible
@@ -21,18 +21,6 @@ and Flux*
 - [ ] Prepare migration from Docker containers to Kubernetes
 - [ ] Fully set up port forwarding from DNS to switch
 - [ ] Start writing Ansible pipelines for GitOps
-### Notes
-- ImmichGo is a super helpful program as it combines the metadata (delivered in json) and the photos as they get uploaded.
-- Use ddclient to spoof DNS pointing to switch
----
-# Below is additional information about the Homelab setup
-### What data will be hosted on the homelab?
-- Music
-- Movies and TV shows
-- Pictures and Videos
-- File backups
-- Zettelkasten backup
-- Minecraft Server for the BOYS
 ### Hardware
 - Unifi Express 7 Digital Gateway
 - Unifi 8-port 2.5Gbps network switch
@@ -43,23 +31,6 @@ and Flux*
 - TERRAMASTER D4-320 External Hard Drive Enclosure
     - x2 Seagate IronWolf 8TB HDD in RAID 1 (when I have money get a third
       and migrate to RAID 5)
-### Software stack
-- PiHole
-- Immich
-- Home Assistant
-- Jellyfin
-- Audiobookshelf
-- Nextcloud
-- Forgejo/Fossil
-- Minecraft Server
-- Filebrowser
-- Homepage
-- FreshRSS
-- Traefik
-- Syncthing
-### OS Configuration
-- Talos Linux for Kubernetes
-- Flux for GitOps
 ### Device Naming Convention
 - Raspberry Pi - MlabCP
 - Lenovo ThinkCentre - MlabWN1, MlabWN2, MlabWN3

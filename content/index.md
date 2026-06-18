@@ -1,7 +1,6 @@
 ---
-title: About Me
+title: Hello, my name is Matthew Labrecque
 ---
-# Hello, my name is Matthew Labrecque
 I'm currently in my Senior year at the [University of New Hampshire](https://unh.edu), studying Applied Mathematics with a concentration in Computational Mathematics. My interests include systems-programming, algorithm analysis, and machine learning. Additionally, I'm also a film maker, musician, poet, and in-general a tinkerer who uses technology to create and build things which interest me. When I'm not working on my homelab, studying for exams or
 failing to learn Spanish, you can usually find me lifting weights or exploring the great outdoors of this beautiful planet we get to call home.
 # What is this website?
@@ -33,4 +32,4 @@ While my degree is in applied mathematics and focuses primarily on computer scie
 # Completed projects
 - [202605262337-zettk-cli](Officina/202605262337-zettk-cli.md)
 - [202605231751-pim-pi-improved](Officina/202605231751-pim-pi-improved.md)
-- [202605261721-homelab-build](Officina/202605261721-homelab-build.md)
+- [202605261721-homelab-hardware](202605261721-homelab-hardware.md)
