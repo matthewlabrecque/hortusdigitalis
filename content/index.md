@@ -15,9 +15,7 @@ This website is a public-facing view of my [Zettelkasten](https://zettelkasten.d
 While my degree is in applied mathematics and focuses primarily on computer science, my learning interests are widespread and range from Philosophy and Theology, to Psychology and Sports Medicine. Currently I am reading [[The Master and His Emissary]] and [[The Proof in the Code]] on top of my current coursework:
 - Introduction to Computer Logic Theory
 # My favorite tools
-- **Linux:** I prefer Linux over Windows or MacOS primarily because it's ideal for programming, as well as I enjoy the ability to customize my computer exactly
-  how I want it to be. Personally I use [Arch Linux](https://archlinux.org/download/) with [Niri](https://github.com/niri-wm/niri) as my window
-  manager.
+- **Linux:** I prefer Linux over Windows or MacOS primarily because it's ideal for programming, as well as I enjoy the ability to customize my computer exactly how I want it to be. Personally I use [NixOS](https://nixos.org) with [Niri](https://github.com/niri-wm/niri) as my window manager.
 - **Neovim:** I'm a little weird in that I don't like bulky IDEs for  programming, so I prefer Neovim with my own [custom condifuration](https://github.com/matthewlabrecque/dotfiles/blob/main/nvim/.config/nvim/init.lua) for  programming. Neovim is also ideal because I can hook it into my other tools I use such as [zettk-cli](Officina/202605262337-zettk-cli.md).
 - **Obsidian:** I realistically could just call this "a note taking system" and my point would still stand, but Obsidian is single-handedly the biggest thing that has changed how I organize my knowledge/life because of the ability to link between notes.
 - **Anki:** Still the undisputed king of studying techniques. Anki's spaced repetition flashcards help me study and master concepts. I'll often use Anki with NotebookLM by generating the flashcards using NotebookLM and loading them into Anki. 
