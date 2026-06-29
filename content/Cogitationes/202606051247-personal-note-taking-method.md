@@ -1,5 +1,5 @@
 ---
-type: note
+type: blog
 title: My Personal Note Taking Method
 created: 2026-06-05
 tags:

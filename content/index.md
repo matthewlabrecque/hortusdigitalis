@@ -1,8 +1,13 @@
 ---
 title: Hello, my name is Matthew Labrecque
 ---
-I'm currently in my Senior year at the [University of New Hampshire](https://unh.edu), studying Applied Mathematics with a concentration in Computational Mathematics. My interests include systems-programming, algorithm analysis, and machine learning. Additionally, I'm also a film maker, musician, poet, and in-general a tinkerer who uses technology to create and build things which interest me. When I'm not working on my homelab, studying for exams or
-failing to learn Spanish, you can usually find me lifting weights or exploring the great outdoors of this beautiful planet we get to call home.
+I'm currently in my Senior year at the [University of New Hampshire](https://unh.edu), studying Applied Mathematics with a concentration in Computational Mathematics. My interests include systems-programming, algorithm analysis, and machine learning. Additionally, I'm also a film maker, musician, poet, and in-general a tinkerer who uses technology to create and build things which interest me. When I'm not working on my homelab, studying for exams or failing to learn Spanish, you can usually find me lifting weights or exploring the great outdoors of this beautiful planet we get to call home.
+
+- Music
+- Reading
+- Lifitng/Exercise
+- Video Creation
+- Fashion
 # What is this website?
 This website is a public-facing view of my [Zettelkasten](https://zettelkasten.de/overview/) which contains all of the knowledge that I've accrued and learned over my time at university and in my self-directed studies. The vault is broken down into several main categories:
 1. **Capsa:** This is the inbox where all new notes go when I first create them. I write [atomic notes](Initus/202606111111-what-are-atomic-notes) about what I've learned
