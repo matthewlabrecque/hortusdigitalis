@@ -1,13 +1,7 @@
 ---
-title: Hello, my name is Matthew Labrecque
+title: Hi, I'm Matt
 ---
-I'm currently in my Senior year at the [University of New Hampshire](https://unh.edu), studying Applied Mathematics with a concentration in Computational Mathematics. My interests include systems-programming, algorithm analysis, and machine learning. Additionally, I'm also a film maker, musician, poet, and in-general a tinkerer who uses technology to create and build things which interest me. When I'm not working on my homelab, studying for exams or failing to learn Spanish, you can usually find me lifting weights or exploring the great outdoors of this beautiful planet we get to call home.
-
-- Music
-- Reading
-- Lifitng/Exercise
-- Video Creation
-- Fashion
+I'm currently in my Senior year at the [University of New Hampshire](https://unh.edu), studying Applied Mathematics with a concentration in Computational Mathematics. I'm also a film maker, musician, poet, and in-general use technology to help create and build projects and things which interest me. When I'm not working on homework, you typically can find me reading, lifting, doing fashion projects, or exploring this beautiful planet we get to call home.
 # What is this website?
 This website is a public-facing view of my [Zettelkasten](https://zettelkasten.de/overview/) which contains all of the knowledge that I've accrued and learned over my time at university and in my self-directed studies. The vault is broken down into several main categories:
 1. **Capsa:** This is the inbox where all new notes go when I first create them. I write [atomic notes](Initus/202606111111-what-are-atomic-notes) about what I've learned
@@ -17,8 +11,13 @@ This website is a public-facing view of my [Zettelkasten](https://zettelkasten.d
 4. **Atomicus** contains notes which aren't *exactly* Cogitationes or Caspas, and instead of random thoughts/ideas I have throughout the day
 5. The **Officina** contains reports/notes from all the projects I have either done or am currently planning on doing.
 # Learning Interests
-While my degree is in applied mathematics and focuses primarily on computer science, my learning interests are widespread and range from Philosophy and Theology, to Psychology and Sports Medicine. Currently I am reading [[The Master and His Emissary]] and [[The Proof in the Code]] on top of my current coursework:
-- Introduction to Computer Logic Theory
+While my degree is in applied mathematics and focuses primarily on computer science, my learning interests are widespread and range from Philosophy and Theology, to Psychology and Sports Medicine. Currently I am reading [[The Master and His Emissary]], [[The Psychology of Money]] and [[The Proof in the Code]].
+
+My current coursework (updated through Autumn 2027):
+- [MATH739 - Applied Regression Analysis](https://courses.unh.edu/class/202610/10157)
+- [MATH525 - Linearity I](https://courses.unh.edu/class/202610/10394)
+- [PHYS407 - General Physics I](https://courses.unh.edu/class/202610/10464)
+- BIO413 - Introduction to Biology
 # My favorite tools
 - **Linux:** I prefer Linux over Windows or MacOS primarily because it's ideal for programming, as well as I enjoy the ability to customize my computer exactly how I want it to be. Personally I use [NixOS](https://nixos.org) with [Niri](https://github.com/niri-wm/niri) as my window manager.
 - **Neovim:** I'm a little weird in that I don't like bulky IDEs for  programming, so I prefer Neovim with my own [custom condifuration](https://github.com/matthewlabrecque/dotfiles/blob/main/nvim/.config/nvim/init.lua) for  programming. Neovim is also ideal because I can hook it into my other tools I use such as [zettk-cli](Officina/202605262337-zettk-cli.md).
@@ -28,10 +27,16 @@ While my degree is in applied mathematics and focuses primarily on computer scie
 - The University of New Hampshire - Durham, NH (2025-Present)
     - B.S. in Applied Mathematics, Concentration in Computations
     - Member, Hamel Honors and Scholars College
+    - Current GPA: 3.52
 - Nashua Community College - Nashua, NH (2023-2025);
     - A.S. in Computer Science
     - Member, Phi Theta Kappa Honor Society
     - Graduated Summa Cum Laude
+    - Final GPA: 3.92
+- Windermere Academy - Wilton, NH (2018-2023)
+	- High School Diploma
+	- Graduated with Honors
+	- Final GPA: 3.87
 # Completed projects
 - [202605262337-zettk-cli](Officina/202605262337-zettk-cli.md)
 - [202605231751-pim-pi-improved](Officina/202605231751-pim-pi-improved.md)

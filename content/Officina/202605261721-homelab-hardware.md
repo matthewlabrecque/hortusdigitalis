@@ -13,24 +13,21 @@ personal data. They also don't mention how you're at their mercy if they decide
 to increase the prices of a service. Because of this, I decided to build a
 home lab to serve as a secure, controlled environment for the data which I don't
 want on the cloud.
-### Workflow
-*This will ultimately contain information about my GitOps workflow using Ansible
-and Flux*
-### Need to do
-- [ ] Purchase remaining hardware
-- [ ] Prepare migration from Docker containers to Kubernetes
-- [ ] Fully set up port forwarding from DNS to switch
-- [ ] Start writing Ansible pipelines for GitOps
 ### Hardware
-- Unifi Express 7 Digital Gateway
+- Intel N100 for router (will run PfSense, OpenVPN, etc.)
 - Unifi 8-port 2.5Gbps network switch
-- Raspberry Pi 5 8GB
-- x3 Lenovo Thinkcentre M90q with 2.5G Ethernet LAN Cards
 - Home Assistant Green
 - USB Blu-Ray Drive
-- TERRAMASTER D4-320 External Hard Drive Enclosure
-    - x2 Seagate IronWolf 8TB HDD in RAID 1 (when I have money get a third
-      and migrate to RAID 5)
-### Device Naming Convention
-- Raspberry Pi - MlabCP
-- Lenovo ThinkCentre - MlabWN1, MlabWN2, MlabWN3
+### Server Part List
+PCPartPicker Part List: https://pcpartpicker.com/list/pKBTMF
+- AMD Ryzen 5 7600 3.8 GHz 6-Core Processor
+- Noctua NH-U12A 60.09 CFM CPU Cooler 
+- MSI PRO B650M-P Micro ATX AM5 Motherboard 
+- Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory 
+- Crucial P510 1 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive 
+- Seagate Exos X14 12 TB 3.5" 7200 RPM Internal Hard Drive (x4) 
+- Gigabyte GAMING OC Radeon RX 9070 XT 16 GB Video Card 
+- Jonsbo N6 MicroATX Mid Tower Case
+- Cooler Master V850 SFX GOLD 850 W 80+ Gold Certified Fully Modular SFX Power Supply
+-  Noctua NF-A14x25 G2 PWM Sx2-PP 91.6 CFM 140 mm Fans 2-Pack
+-  Noctua NF-A12x25 G2 PWM Sx2-PP 63.15 CFM 120 mm Fans 2-Pack (x3)

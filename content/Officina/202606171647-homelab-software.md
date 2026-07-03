@@ -20,7 +20,7 @@ High performance self-hosted photo and video management which is designed to be 
 
 Use [Immich-Go](https://github.com/simulot/immich-go) for merging metadata from photos on Google Photos with their corresponding pictures and automating the uploading of all data to Immich instance.
 ```zsh
-./immich-go upload from-google-photos --server=http://my-website.com:0000 --api-key=*IMMICH_API_KEY* --concurrent-tasks=4 --client-timeout=60m --pause-immich-jobs=true --on-errors=continue --session-tag takeout-*.zip
+./immich-go upload from-google-photos --server=http://my-website.com:8888 --api-key=*IMMICH_API_KEY* --concurrent-tasks=4 --client-timeout=60m --pause-immich-jobs=true --on-errors=continue --session-tag takeout-*.zip
 ```
 ### Home Assistant
 
@@ -39,5 +39,5 @@ Use either [Paper](https://papermc.io/) or [Fabric](https://fabricmc.net/) for a
 ### Syncthing
 ### ddclient
 
-### OS Configuration
-- Talos Linux for Kubernetes
+### Sunshine
+Sunshine is a host client for allowing remote gaming instances over the internet using ([Link](https://docs.lizardbyte.dev/projects/sunshine/latest/))
