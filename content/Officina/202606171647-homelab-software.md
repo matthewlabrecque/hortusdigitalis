@@ -12,9 +12,12 @@ Additionally, it also serves as a data host for music, movies and TV shows, Pict
 - Zettelkasten backup
 - Minecraft Server
 # Services being hosted
+### PfSense
+Hosted on the N100 to serve as my router.
+### Tailscale/OpenVPN
+Root node is hosted on the N100 which is what everything connects to
 ### AdGuard Home
 Provides both network-wide ad blocking as well as blocking trackers from my devices through my Tailscale instance. Works by being the Tailscale exit node so all traffic routes through my filter before going into the world wide web.
-### Flux
 ### Immich
 High performance self-hosted photo and video management which is designed to be an open-source version of Google Photos. Includes automated backups, machine learning processing, facial recognition, etc.
 
