@@ -8,7 +8,6 @@ tags:
 ---
 ### Introduction
 Ever since I downloaded Notion when I first started at community college, I started becoming obsessed with trying to find the ideal note taking system for myself. Early on, I knew that I couldn't really borrow from someone else's note taking system, so I began developing my own personal note taking system which is broken into two main parts.
-
 ### Physical Note Keeping
 I keep two physical books which I actively write in. The first is a small "Field
 Notes" journal which I use to jot things down as they come to my in my

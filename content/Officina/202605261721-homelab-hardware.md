@@ -31,3 +31,6 @@ PCPartPicker Part List: https://pcpartpicker.com/list/pKBTMF
 - Cooler Master V850 SFX GOLD 850 W 80+ Gold Certified Fully Modular SFX Power Supply
 -  Noctua NF-A14x25 G2 PWM Sx2-PP 91.6 CFM 140 mm Fans 2-Pack
 -  Noctua NF-A12x25 G2 PWM Sx2-PP 63.15 CFM 120 mm Fans 2-Pack (x3)
+
+### Software
+Software stack is documented over at [[202606171647-homelab-software]]
