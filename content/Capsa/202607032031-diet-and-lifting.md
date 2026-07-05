@@ -1,9 +1,10 @@
 ---
 type: note
-title: %s
+title: My Diet and Lifting Notes
 created: 2026-07-03
 tags:
-    - 
+  - physical-health
+  - diet
 ---
 ### Thesis
 Notes about my diet and training from the last four years of learning how to lift and diet properly.
