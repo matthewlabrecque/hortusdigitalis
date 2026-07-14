@@ -84,13 +84,10 @@
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
-<<<<<<< HEAD
   },
   "allowScripts": {
     "@parcel/watcher@2.5.6": true,
     "esbuild@0.27.3": true,
     "sharp@0.34.5": true
-=======
->>>>>>> 9cf87ff1c248a8ca551093214b0fec3b31415009
   }
 }
