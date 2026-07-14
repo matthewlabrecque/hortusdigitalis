@@ -1,9 +1,9 @@
 ---
 type: note
-title: %s
+title: Arch Linux
 created: 2026-07-10
 tags:
-    - 
+  -
 ---
 
 use node version manager (nvm) to install node and npm
