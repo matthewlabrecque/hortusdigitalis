@@ -1,0 +1,94 @@
+{
+  "name": "content-index-cogitationes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fork of @quartz-community/content-index that scopes the RSS feed to content/Cogitationes.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Quartz Community",
+  "homepage": "https://quartz.jzhao.xyz",
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "peerDependencies": {
+    "vfile": "^6.0.3"
+  },
+  "peerDependenciesMeta": {
+    "vfile": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "@quartz-community/types": "github:quartz-community/types",
+    "@quartz-community/utils": "github:quartz-community/utils"
+  },
+  "devDependencies": {
+    "@types/hast": "^3.0.4",
+    "@types/mdast": "^4.0.4",
+    "@types/node": "^24.10.0",
+    "hast-util-to-html": "^9.0.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "quartz": {
+    "name": "content-index-cogitationes",
+    "displayName": "Content Index (Cogitationes RSS)",
+    "category": "emitter",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "enableSiteMap": true,
+      "enableRSS": true,
+      "rssLimit": 10,
+      "rssFullHtml": false,
+      "rssSlug": "index",
+      "includeEmptyFiles": true,
+      "rssPathPrefix": "Cogitationes/"
+    },
+    "optionSchema": {
+      "enableSiteMap": {
+        "type": "boolean"
+      },
+      "enableRSS": {
+        "type": "boolean"
+      },
+      "rssLimit": {
+        "type": "number"
+      },
+      "rssFullHtml": {
+        "type": "boolean"
+      },
+      "rssSlug": {
+        "type": "string"
+      },
+      "includeEmptyFiles": {
+        "type": "boolean"
+      },
+      "rssPathPrefix": {
+        "type": "string"
+      }
+    }
+  },
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10.9.2"
+  }
+}

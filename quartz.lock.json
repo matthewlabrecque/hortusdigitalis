@@ -55,11 +55,11 @@
       "commit": "42c5023e42cf62495219095a862b2ea144b65600",
       "installedAt": "2026-06-17T19:23:58.330Z"
     },
-    "content-index": {
-      "source": "github:quartz-community/content-index",
-      "resolved": "https://github.com/quartz-community/content-index.git",
-      "commit": "c3d4f5c85311712c3355cd71da46b28e2d8eba71",
-      "installedAt": "2026-06-17T19:23:57.578Z"
+    "content-index-cogitationes": {
+      "source": "./plugins/content-index-cogitationes",
+      "resolved": "/home/mlab/Projects/hortusdigitalis/plugins/content-index-cogitationes",
+      "commit": "local",
+      "installedAt": "2026-07-27T15:39:00.751Z"
     },
     "content-meta": {
       "source": "github:quartz-community/content-meta",
